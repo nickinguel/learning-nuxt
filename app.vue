@@ -5,8 +5,4 @@
   </div>
 </template>
 
-<<<<<<< HEAD
 This comment
-=======
-Go there
->>>>>>> another_one
